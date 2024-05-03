@@ -11,7 +11,7 @@ last_name: Aguirre
 
 # Status emoji
 status:
-  icon: "☕️"
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,11 +29,7 @@ organizations:
     url: https://datascience.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: As a Data Scientist II at ClimateAi, I specialize in implementing mathematical and statistical solutions to comprehend, forecast, and anticipate risks and events linked to climate change. My current focus lies in leveraging Geographic Information Systems (GIS) and Machine Learning (ML) to predict water availability. Proficient in cloud technologies such as Google Cloud and Amazon Web Services, I strive to harness the power of data for actionable insights in climate science.
-
-Prior to my current role, I served as a Research Trainee at the Fetal Neonatal Developmental Science Center, affiliated with Harvard Medical School. There, I delved into utilizing ML algorithms for fetal brain age prediction, proposing its potential as a biomarker for identifying abnormal behavior.
-
-Excitingly, This fall I will begin my PhD journey at the Halicioġlu Data Science Institute at the University of California, San Diego. My research will concentrate on employing Artificial Intelligence (AI) for disease prediction and augmenting clinical decision-making processes.
+bio: As a Data Scientist II at ClimateAi, I specialize in implementing mathematical and statistical solutions to comprehend, forecast, and anticipate risks and events linked to climate change. My current focus lies in leveraging Geographic Information Systems (GIS) and Machine Learning (ML) to predict water availability. Proficient in cloud technologies such as Google Cloud and Amazon Web Services, I strive to harness the power of data for actionable insights in climate science. Prior to my current role, I served as a Research Trainee at the Fetal Neonatal Developmental Science Center, affiliated with Harvard Medical School. There, I delved into utilizing ML algorithms for fetal brain age prediction, proposing its potential as a biomarker for identifying abnormal behavior. Excitingly, This fall I will begin my PhD journey at the Halicioġlu Data Science Institute at the University of California, San Diego. My research will concentrate on employing Artificial Intelligence (AI) for disease prediction and augmenting clinical decision-making processes.
 
 # Interests to show in About widget
 interests:
