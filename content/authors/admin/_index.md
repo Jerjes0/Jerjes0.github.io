@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jerjes Aguirre
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jerjes
+last_name: Aguirre
 
 # Status emoji
 status:
@@ -17,34 +17,40 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ClimateAi
+    url: https://climate.ai/
+  - name: University of California, San Diego
+    url: https://www.ucsd.edu/
+  - name: Halicioġlu Data Science Institute
+    url: https://datascience.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: As a Data Scientist II at ClimateAi, I specialize in implementing mathematical and statistical solutions to comprehend, forecast, and anticipate risks and events linked to climate change. My current focus lies in leveraging Geographic Information Systems (GIS) and Machine Learning (ML) to predict water availability. Proficient in cloud technologies such as Google Cloud and Amazon Web Services, I strive to harness the power of data for actionable insights in climate science.
+
+Prior to my current role, I served as a Research Trainee at the Fetal Neonatal Developmental Science Center, affiliated with Harvard Medical School. There, I delved into utilizing ML algorithms for fetal brain age prediction, proposing its potential as a biomarker for identifying abnormal behavior.
+
+Excitingly, This fall I will begin my PhD journey at the Halicioġlu Data Science Institute at the University of California, San Diego. My research will concentrate on employing Artificial Intelligence (AI) for disease prediction and augmenting clinical decision-making processes.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Healthcare
+  - Responsible Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Data Science
+      institution: University of California, San Diego
+      year: Incoming, Fall 2024
+
+    - course: BSc in Engineering Physics
+      institution: Tecnológico de Monterrey
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,12 +59,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -94,21 +100,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jerjes0
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/jerjesaguirre/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
