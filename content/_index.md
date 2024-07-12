@@ -70,12 +70,12 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              # Responsibilities include:
+              Responsibilities include:
 
-              # * Analysing
-              # * Modelling
-              # * Deploying
-              
+              * Analysing
+              * Modelling
+              * Deploying
+
         - title: Data Scientist I
           company: ClimateAi
           company_url: 'climate.ai'
@@ -84,6 +84,11 @@ sections:
           date_start: '2023-01-09'
           date_end: '2024-02-01'
           description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
 
         - title: Software Engineer
         company: Deal Engine
@@ -93,6 +98,11 @@ sections:
         date_start: '2022-08-01'
         date_end: '2023-01-09'
         description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
 
     design:
       columns: '2'
