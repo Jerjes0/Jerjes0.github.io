@@ -69,12 +69,13 @@ sections:
           location: Remote
           date_start: '2024-02-01'
           date_end: ''
-          description: #|2-
+          description: |2-
               # Responsibilities include:
 
               # * Analysing
               # * Modelling
               # * Deploying
+              
         - title: Data Scientist I
           company: ClimateAi
           company_url: 'climate.ai'
@@ -82,7 +83,8 @@ sections:
           location: Remote
           date_start: '2023-01-09'
           date_end: '2024-02-01'
-          description: #Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+
         - title: Software Engineer
         company: Deal Engine
         company_url: 'https://deal-engine.com/'
@@ -90,6 +92,8 @@ sections:
         location: Remote
         date_start: '2022-08-01'
         date_end: '2023-01-09'
+        description: |2-
+
     design:
       columns: '2'
   # - block: accomplishments
