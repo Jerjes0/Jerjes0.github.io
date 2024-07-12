@@ -38,8 +38,9 @@ bio: |
 
 # Interests to show in About widget
 interests:
+  - Data Mining
   - Artificial Intelligence
-  - Computational Healthcare
+  - Precision Healthcare
   - Responsible Machine Learning
 
 # Education to show in About widget
@@ -127,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jerjes Aguirre-Chavez is an incoming Data Science PhD student at the Halıcıoğlu Data Science Institute, University of California, San Diego. His research interests encompass responsible machine learning, data mining, and the application of artificial intelligence in clinical decision-making. Currently, he serves as a Data Scientist II at ClimateAi, focusing on climate risk management, hurricane forecasting, and flood forecasting. 
 {style="text-align: justify;"}
