@@ -63,8 +63,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: beige
-    theme_dark: league
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
