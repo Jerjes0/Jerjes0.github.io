@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Jerjes Aguirre
+title: Jerjes Aguirre-Chavez
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jerjes
-last_name: Aguirre
+last_name: Aguirre-Chavez
 
 # Status emoji
 status:
