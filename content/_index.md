@@ -64,8 +64,8 @@ sections:
       items:
         - title: Data Scientist II
           company: ClimateAi
-          company_url: 'climate.ai'
-          company_logo: climate_ai.png
+          company_url: 'https://climate.ai/'
+          company_logo: org-x
           location: Remote
           date_start: '2024-02-01'
           date_end: ''
@@ -78,8 +78,8 @@ sections:
 
         - title: Data Scientist I
           company: ClimateAi
-          company_url: 'climate.ai'
-          company_logo: climate_ai.png
+          company_url: 'https://climate.ai/'
+          company_logo: org-x
           location: Remote
           date_start: '2023-01-09'
           date_end: '2024-02-01'
