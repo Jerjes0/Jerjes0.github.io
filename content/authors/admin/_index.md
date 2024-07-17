@@ -48,7 +48,7 @@ education:
   courses:
     - course: PhD in Data Science
       institution: University of California, San Diego
-      year: Incoming, Fall 2024
+      year: 2029 (expected)
 
     - course: BSc in Engineering Physics
       institution: Tecnológico de Monterrey
