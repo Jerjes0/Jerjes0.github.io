@@ -70,11 +70,10 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Designed and implemented custom dashboards tailored to client requirements, covering critical topics such as wildfires, hurricanes, and various agronomic issues.
+              * Developed algorithms to aggregate climate projection data specifically for hydrological basins, enhancing data accuracy and usability.
+              * Created comprehensive climate risk analysis report guidelines, ensuring stakeholders have clear and actionable insights for decision-making.
 
         - title: Data Scientist I
           company: ClimateAi
@@ -84,11 +83,10 @@ sections:
           date_start: '2023-01-09'
           date_end: '2024-02-01'
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Created tailored datasets for various clients to assess climate-related risks, focusing on areas such as pests, diseases, sunshine hours, and heat stress.
+              * Successfully migrated and adapted the existing codebase from Google Cloud to Amazon Web Services, ensuring seamless transition and improved performance.
+              * Developed advanced algorithms for post-processing high-resolution global climate projection variables, optimizing computing resource usage and efficiency.
 
         - title: Software Engineer
           company: Deal Engine
@@ -98,11 +96,10 @@ sections:
           date_start: '2022-08-01'
           date_end: '2023-01-09'
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Developed advanced Natural Language Processing (NLP) algorithms to infer tax-related rules for various countries and airlines.
+              * Managed and controlled source code versions effectively using Git, ensuring code integrity and collaboration.
+              * Built, accessed, and maintained robust databases using SQL, ensuring data accuracy and availability.
 
     design:
       columns: '2'
@@ -294,7 +291,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+          captcha: false
     design:
       columns: '2'
 ---

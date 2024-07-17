@@ -52,7 +52,7 @@ education:
 
     - course: BSc in Engineering Physics
       institution: Tecnológico de Monterrey
-      year: 2018-2022
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
