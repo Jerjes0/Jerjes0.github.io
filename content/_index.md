@@ -65,7 +65,7 @@ sections:
         - title: Data Scientist II
           company: ClimateAi
           company_url: 'https://climate.ai/'
-          company_logo: climate_ai.png
+          # company_logo: climate_ai.png
           location: Remote
           date_start: '2024-02-01'
           date_end: ''
@@ -79,7 +79,7 @@ sections:
         - title: Data Scientist I
           company: ClimateAi
           company_url: 'https://climate.ai/'
-          company_logo: climate_ai.png
+          # company_logo: climate_ai.png
           location: Remote
           date_start: '2023-01-09'
           date_end: '2024-02-01'
@@ -90,19 +90,19 @@ sections:
               * Modelling
               * Deploying
 
-        # - title: Software Engineer
-        #   company: Deal Engine
-        #   company_url: 'https://deal-engine.com/'
-        #   # company_logo: deal_engine
-        #   location: Remote
-        #   date_start: '2022-08-01'
-        #   date_end: '2023-01-09'
-        #   description: |2-
-        #       Responsibilities include:
+        - title: Software Engineer
+          company: Deal Engine
+          company_url: 'https://deal-engine.com/'
+          # company_logo: deal_engine
+          location: Remote
+          date_start: '2022-08-01'
+          date_end: '2023-01-09'
+          description: |2-
+              Responsibilities include:
 
-        #       * Analysing
-        #       * Modelling
-        #       * Deploying
+              * Analysing
+              * Modelling
+              * Deploying
 
     design:
       columns: '2'
