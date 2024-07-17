@@ -50,62 +50,62 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Data Scientist II
-  #         company: ClimateAi
-  #         company_url: 'climate.ai'
-  #         company_logo: climate_ai
-  #         location: Remote
-  #         date_start: '2024-02-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Data Scientist II
+          company: ClimateAi
+          company_url: 'climate.ai'
+          company_logo: climate_ai
+          location: Remote
+          date_start: '2024-02-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
+              * Analysing
+              * Modelling
+              * Deploying
 
-  #       - title: Data Scientist I
-  #         company: ClimateAi
-  #         company_url: 'climate.ai'
-  #         company_logo: climate_ai
-  #         location: Remote
-  #         date_start: '2023-01-09'
-  #         date_end: '2024-02-01'
-  #         description: |2-
-  #             Responsibilities include:
+        - title: Data Scientist I
+          company: ClimateAi
+          company_url: 'climate.ai'
+          # company_logo: climate_ai
+          location: Remote
+          date_start: '2023-01-09'
+          date_end: '2024-02-01'
+          description: |2-
+              Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
+              * Analysing
+              * Modelling
+              * Deploying
 
-  #       - title: Software Engineer
-  #         company: Deal Engine
-  #         company_url: 'https://deal-engine.com/'
-  #         company_logo: deal_engine
-  #         location: Remote
-  #         date_start: '2022-08-01'
-  #         date_end: '2023-01-09'
-  #         description: |2-
-  #             Responsibilities include:
+        # - title: Software Engineer
+        #   company: Deal Engine
+        #   company_url: 'https://deal-engine.com/'
+        #   # company_logo: deal_engine
+        #   location: Remote
+        #   date_start: '2022-08-01'
+        #   date_end: '2023-01-09'
+        #   description: |2-
+        #       Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
+        #       * Analysing
+        #       * Modelling
+        #       * Deploying
 
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
 
   # - block: accomplishments
   #   content:
