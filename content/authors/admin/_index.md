@@ -21,8 +21,6 @@ role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ClimateAi
-    url: https://climate.ai/
   - name: University of California, San Diego
     url: https://www.ucsd.edu/
   - name: Halicioġlu Data Science Institute
@@ -30,18 +28,18 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  As a Data Scientist II at ClimateAi, I specialize in implementing mathematical and statistical solutions to comprehend, forecast, and anticipate risks and events linked to climate change. My current focus lies in leveraging Geographic Information Systems (GIS) and Machine Learning (ML) to predict water availability. Proficient in cloud technologies such as Google Cloud and Amazon Web Services, I strive to harness the power of data for actionable insights in climate science.
+  I am pursuing my PhD at the Halıcıoğlu Data Science Institute at the University of California, San Diego, where my research focuses on applying Artificial Intelligence (AI) for clinical decision-making and scientific discovery. Currently, I am conducting a rotation in the Voytek Lab, doing research on the use of Large Language Models (LLMs) to advance clinical scientific discovery within neuroscience.
 
-  Prior to my current role, I served as a Research Trainee at the Fetal Neonatal Developmental Science Center, affiliated with Harvard Medical School. There, I delved into utilizing ML algorithms for fetal brain age prediction, proposing its potential as a biomarker for identifying abnormal behavior. 
+  Previously, I worked as a Data Scientist II at ClimateAi, where I specialized in implementing mathematical and statistical solutions to understand, forecast, and anticipate risks and events related to climate change. My work primarily involved leveraging Geographic Information Systems (GIS) and Machine Learning (ML) to predict water availability. During this time, I gained expertise in cloud technologies such as Google Cloud and Amazon Web Services, transforming data into actionable insights in climate science.
 
-  Excitingly, This fall I will begin my PhD journey at the Halicioġlu Data Science Institute at the University of California, San Diego. My research will concentrate on employing Artificial Intelligence (AI) for disease prediction and augmenting clinical decision-making processes.
+  Earlier in my career, I served as a Research Trainee at the Fetal-Neonatal Neuroimaging and Developmental Science Center, affiliated with Harvard Medical School. There, I applied ML algorithms for fetal brain age prediction, exploring its potential as a biomarker for identifying atypical development.
 
 # Interests to show in About widget
 interests:
-  - Data Mining
   - Artificial Intelligence
   - Precision Healthcare
   - Responsible Machine Learning
+  - AI for Scientific Discovery 
 
 # Education to show in About widget
 education:
@@ -128,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Jerjes Aguirre-Chavez is an incoming Data Science PhD student at the Halıcıoğlu Data Science Institute, University of California, San Diego. His research interests encompass responsible machine learning, data mining, and the application of artificial intelligence in clinical decision-making. Currently, he serves as a Data Scientist II at ClimateAi, focusing on climate risk management, hurricane forecasting, and flood forecasting. 
+Jerjes Aguirre-Chavez is a Data Science PhD student at the Halıcıoğlu Data Science Institute, University of California, San Diego. His research interests include responsible machine learning, data mining, and the application of artificial intelligence in clinical decision-making and scientific discovery. Currently, he is conducting a rotation in the Voytek Lab, exploring the use of Large Language Models (LLMs) to advance neuroscience research. Previously, Jerjes worked as a Data Scientist II at ClimateAi, focusing on climate risk management, hurricane forecasting, and flood forecasting.
 {style="text-align: justify;"}
