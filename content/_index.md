@@ -274,7 +274,7 @@ sections:
       [**See the full galery**](/gallery)
 
       <!-- Optionally show a single image or a small snippet if you like. For example: -->
-      ![Preview Image](/uploads/my_preview.jpg)
+      ![Preview Image](/uploads/main.JPG)
   design:
     columns: '1'
 
