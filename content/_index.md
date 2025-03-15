@@ -236,10 +236,10 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -268,10 +268,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to reach out!
+        Hi there! I'm always excited to chat about research, collaborations, or even grad school ideas. Whatever's on your mind, feel free to drop me a line— I'm here to help and share ideas.
       email: jaguirrechavez@ucsd.edu
       phone: 619 3757 052
-      # appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0KmNCBN-RhgGyNkHLTTEbYEmUJlanx8KaH830_nH4wo_2utSdGcA9HKmviW9LdbDcNAmYxjQSo'
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
