@@ -271,10 +271,13 @@ sections:
       text: |-
         I've always liked taking pictures of sunsets, flowers and the sea. Recently I decided to try to up my game, and here you can see a little of the pictures I've taken so far. Not an expert at all, but I do love taking pictures of pretty things.
 
-        [**See the full galery**](/gallery)
+        <p style="text-align: center;">
+          <a href="/gallery"><strong>See the full gallery</strong></a>
+        </p>
 
-        <!-- Optionally show a single image or a small snippet if you like. For example: -->
-        ![Preview Image](/uploads/main.JPG)
+        <p style="text-align: center;">
+          <img src="/uploads/main.JPG" alt="Preview Image" style="max-width: 75%; height: auto;" />
+        </p>
     design:
       columns: '1'
 
@@ -284,7 +287,7 @@ sections:
       title: Contact
       subtitle: ""
       text: |-
-        Hi there! I'm always excited to chat about research, collaborations, or even grad school ideas. Whatever's on your mind, feel free to drop me a line— I'm here to help and share ideas.
+        Hi there! I'm always excited to chat about research, collaborations, or talk about grad school in general. Whatever's on your mind, feel free to drop me a line— I'm here to help and share ideas.
       email: jaguirrechavez@ucsd.edu
       # phone: 619 3757 052
       appointment_url: 'https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0KmNCBN-RhgGyNkHLTTEbYEmUJlanx8KaH830_nH4wo_2utSdGcA9HKmviW9LdbDcNAmYxjQSo'
