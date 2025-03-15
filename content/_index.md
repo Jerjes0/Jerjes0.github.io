@@ -276,7 +276,9 @@ sections:
         </p>
 
         <p style="text-align: center;">
-          <img src="/uploads/main.JPG" alt="Preview Image" style="max-width: 75%; height: auto;" />
+          <img src="/uploads/main.JPG"
+              alt="Preview Image"
+              style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
         </p>
     design:
       columns: '1'
