@@ -263,7 +263,6 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-
   - block: markdown
   content:
     title: "Photo Gallery"
