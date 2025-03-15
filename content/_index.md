@@ -233,6 +233,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -264,24 +265,24 @@ sections:
   #   design:
   #     columns: '2'
   - block: markdown
-  content:
-    title: "Photo Gallery"
-    subtitle: ""
-    text: |-
-      I've always liked taking pictures of sunsets, flowers and the sea. Recently I decided to try to up my game, and here you can see a little of the pictures I've taken so far. Not an expert at all, but I do love taking pictures of pretty things.
+    content:
+      title: "Photo Gallery"
+      subtitle: ""
+      text: |-
+        I've always liked taking pictures of sunsets, flowers and the sea. Recently I decided to try to up my game, and here you can see a little of the pictures I've taken so far. Not an expert at all, but I do love taking pictures of pretty things.
 
-      [**See the full galery**](/gallery)
+        [**See the full galery**](/gallery)
 
-      <!-- Optionally show a single image or a small snippet if you like. For example: -->
-      ![Preview Image](/uploads/main.JPG)
-  design:
-    columns: '1'
+        <!-- Optionally show a single image or a small snippet if you like. For example: -->
+        ![Preview Image](/uploads/main.JPG)
+    design:
+      columns: '1'
 
   - block: contact
     id: contact
     content:
       title: Contact
-      subtitle:
+        subtitle: ""
       text: |-
         Hi there! I'm always excited to chat about research, collaborations, or even grad school ideas. Whatever's on your mind, feel free to drop me a line— I'm here to help and share ideas.
       email: jaguirrechavez@ucsd.edu
