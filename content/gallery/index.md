@@ -3,8 +3,6 @@ title: "Photo Gallery"
 date: "2025-02-19"
 ---
 
-# My Photo Gallery
-
 Welcome to my little photo gallery! I take most of my pictures with a Fujifilm XT30 ii. I try different recipes and will do my best to label them, but I am a little new in this and don't have yet a very defined style not the best practices for organizing the pictures. 
 
 ## Balboa Park and the Japanese Friendship Gardan
