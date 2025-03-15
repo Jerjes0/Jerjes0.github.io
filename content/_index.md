@@ -282,7 +282,7 @@ sections:
     id: contact
     content:
       title: Contact
-        subtitle: ""
+      subtitle: ""
       text: |-
         Hi there! I'm always excited to chat about research, collaborations, or even grad school ideas. Whatever's on your mind, feel free to drop me a line— I'm here to help and share ideas.
       email: jaguirrechavez@ucsd.edu
