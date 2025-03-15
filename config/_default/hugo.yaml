@@ -5,7 +5,8 @@
 
 title: Jerjes Aguirre-Chavez # Website name
 baseURL: 'https://jerjes.com/' # Website URL
-
+googleAnalytics: ""
+google_analytics: ''
 ############################
 ## LANGUAGE
 ############################

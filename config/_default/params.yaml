@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+googleAnalytics: ""
 
 appearance:
   theme_day: minimal
@@ -18,10 +19,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jerjes Aguirre-Chavez is an incoming Data Science PhD student at the Halıcıoğlu Data Science Institute, University of California, San Diego.'
+    description: 'Jerjes Aguirre-Chavez is a Data Science PhD student at the Halıcıoğlu Data Science Institute, University of California, San Diego.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
+    googleAnalytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''

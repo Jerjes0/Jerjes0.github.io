@@ -1,16 +1,24 @@
 ---
-title: "An example journal article"
+title: "Deep Learning–based Brain Age Prediction Using MRI to Identify Fetuses with Cerebral Ventriculomegaly"
 authors:
-- admin
-- Robert Ford
+- Yun, Hyuk Jin
+- Lee, Han-Jui
+- You, Sungmin
+- Lee, Joo Young
+- Aguirre-Chavez, Jerjes
+- Vasung, Lana
+- Lee, Hyun Ju
+- Tarui, Tomo
+- Feldman, Henry A.
+- Grant, P. Ellen
+- Im, Kiho
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+
+date: "2025-02-03"
+doi: "10.1148/ryai.240115"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-02-19"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Deep Learning–based Brain Age Prediction Using MRI to Identify Fetuses with Cerebral Ventriculomegaly"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Fetal ventriculomegaly (VM) and its severity and associated central nervous system (CNS) abnormalities are important indicators of high risk for impaired neurodevelopmental outcomes. Recently, a novel fetal brain age prediction method using a two-dimensional (2D) single-channel convolutional neural network (CNN) with multiplanar MRI sections showed the potential to detect fetuses with VM. This study examines the diagnostic performance of a deep learning–based fetal brain age prediction model to distinguish fetuses with VM (n = 317) from typically developing fetuses (n = 183), the severity of VM, and the presence of associated CNS abnormalities. The predicted age difference (PAD) was measured by subtracting the predicted brain age from the gestational age in fetuses with VM and typical development. PAD and absolute value of PAD (AAD) were compared between VM and typically developing fetuses. In addition, PAD and AAD were compared between subgroups by VM severity and the presence of associated CNS abnormalities in VM. Fetuses with VM showed significantly larger AAD than typically developing fetuses (P < .001), and fetuses with severe VM showed larger AAD than those with moderate VM (P = .004). Fetuses with VM and associated CNS abnormalities had significantly lower PAD than fetuses with isolated VM (P = .005). These findings suggest that fetal brain age prediction using the 2D single-channel CNN method has the clinical ability to assist in identifying not only the enlargement of the ventricles but also the presence of associated CNS abnormalities.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Deep learning–based fetal brain age prediction using MRI may aid in identifying ventriculomegaly and the presence of associated central nervous system abnormalities during fetal life.
 
 tags:
 - Source Themes
@@ -33,8 +41,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://pubs.rsna.org/doi/10.1148/ryai.240115
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -44,10 +52,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
