@@ -63,13 +63,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Student Researcher
+          company: Halıcıoğlu Data Science Institute, University of California San Diego
+          company_url: 'https://datascience.ucsd.edu/'
+          # company_logo: climate_ai.png
+          location: La Jolla, CA
+          date_start: '2024-09-23'
+          date_end: 
+          description: |2-
+
+              * Conducting research on vision-language models for medical imaging data detection and interpretation.
+              * Created vision-language models for scientific discovery based on neuroscience literature.
+              * Investigated the effects of long covid through the study of individual health states and transitions.
+
         - title: Data Scientist II
           company: ClimateAi
           company_url: 'https://climate.ai/'
           # company_logo: climate_ai.png
           location: Remote
           date_start: '2024-02-01'
-          date_end: ''
+          date_end: '2024-09-15'
           description: |2-
 
               * Designed and implemented custom dashboards tailored to client requirements, covering critical topics such as wildfires, hurricanes, and various agronomic issues.
@@ -209,17 +222,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   # - block: collection
   #   content:
   #     title: Recent Publications
