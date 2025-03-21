@@ -34,9 +34,9 @@ abstract: Fetal ventriculomegaly (VM) and its severity and associated central ne
 # Summary. An optional shortened abstract.
 summary: Deep learning–based fetal brain age prediction using MRI may aid in identifying ventriculomegaly and the presence of associated central nervous system abnormalities during fetal life.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
