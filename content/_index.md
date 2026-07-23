@@ -24,6 +24,7 @@ sections:
     design:
       view: compact
       columns: '2'
+      reveal_after: 2
 
   - block: experience
     id: experience
