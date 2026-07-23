@@ -26,7 +26,7 @@ publishDate: "2025-02-19"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Deep Learning–based Brain Age Prediction Using MRI to Identify Fetuses with Cerebral Ventriculomegaly"
+publication: "Radiology: Artificial Intelligence"
 publication_short: ""
 
 abstract: Fetal ventriculomegaly (VM) and its severity and associated central nervous system (CNS) abnormalities are important indicators of high risk for impaired neurodevelopmental outcomes. Recently, a novel fetal brain age prediction method using a two-dimensional (2D) single-channel convolutional neural network (CNN) with multiplanar MRI sections showed the potential to detect fetuses with VM. This study examines the diagnostic performance of a deep learning–based fetal brain age prediction model to distinguish fetuses with VM (n = 317) from typically developing fetuses (n = 183), the severity of VM, and the presence of associated CNS abnormalities. The predicted age difference (PAD) was measured by subtracting the predicted brain age from the gestational age in fetuses with VM and typical development. PAD and absolute value of PAD (AAD) were compared between VM and typically developing fetuses. In addition, PAD and AAD were compared between subgroups by VM severity and the presence of associated CNS abnormalities in VM. Fetuses with VM showed significantly larger AAD than typically developing fetuses (P < .001), and fetuses with severe VM showed larger AAD than those with moderate VM (P = .004). Fetuses with VM and associated CNS abnormalities had significantly lower PAD than fetuses with isolated VM (P = .005). These findings suggest that fetal brain age prediction using the 2D single-channel CNN method has the clinical ability to assist in identifying not only the enlargement of the ventricles but also the presence of associated CNS abnormalities.
@@ -36,7 +36,7 @@ summary: Deep learning–based fetal brain age prediction using MRI may aid in i
 
 # tags:
 # - Source Themes
-# featured: false
+featured: true
 
 # links:
 # - name: ""
